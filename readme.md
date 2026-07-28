@@ -27,9 +27,6 @@ Crypta Veritas is an open-source network toolkit designed for educational purpos
 
 ### Dependencies
 
-```bash
-pip install colorama requests
-
 ## Clone & Setup
 
 git clone https://github.com/yourusername/crypta-veritas.git
